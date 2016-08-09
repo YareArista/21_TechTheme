@@ -85,6 +85,71 @@ hr{
 .mgb{
 	margin-bottom: 5%;
 }
+/*Inicia estilo del formulario*/
+form{
+	width: 500px;
+	margin: auto;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 5%;
+}
+.h2{
+	color: white;
+	margin-bottom: 20px;
+}
+input, textarea{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	background: rgba(255,255,255,0.2);
+	font-size: 17px;
+	border: none;
+	color: #FFFFFF;
+}
+textarea{
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+#boton{
+	background-color: rgba(1,21,71,0.6);
+	color: #FFFFFF;
+	padding: 10px;
+	width: 30%;
+}
+#boton:hover{
+	background: #20ACA7;
+}
+/*termina estilo del formulario*/
 
+.mgtop{
+	margin-top: 9.5%;
+}
+.contactos{
+	background-image: url("../img/background/contactus.jpg");
+	background-size: 1350px;
+	background-repeat: no-repeat;
+	height: 630px;
+}
+.black{
+	background-color: rgba(0,0,9,0.4);
+	margin-left: .1%;
+}
+.h1{
+	height: 150px;
+}
+.he2{
+	height: 480px;
+}
+/*inconos de redes sociales*/
+i{
+	margin-right: 2%;
+}
+/*footer*/
+footer{
+	background-color: #3D3D3D;
+	color: #FFFFFF;
+	padding: 3%;
+}
 
 
