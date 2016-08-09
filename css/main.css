@@ -1,0 +1,30 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+.ban{
+	background-image: url("../img/background/city.jpg");
+	background-repeat: no-repeat;
+	background-size: 1350px;
+	height: 430px;
+	color: #FFFFFF;
+	font-size: 25px;
+	padding: 9% 22%;
+}
+.baction{
+	border-style: none;
+	padding: 1% 3%;
+	color: white;
+	background: rgba(0,0,0,.5);
+	margin: auto;
+	font-size: 17px;
+	margin-top: 9%;
+}
+.baction:hover{
+	background: rgba(0,0,9,.8);
+}
+.mgt{
+	margin: auto;
+}
+
+
+
