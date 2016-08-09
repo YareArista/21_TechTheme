@@ -25,6 +25,66 @@
 .mgt{
 	margin: auto;
 }
+/*Este estilo es para la sección de pakages*/
+.pd{
+	margin-top: 2%;
+}
+.pakages{
+	height: 590px;
+	width: 30%;
+	margin-top: 5%;
+	border: 1px outset rgb(244, 244, 244);
+	margin-left: 2.5%;
+	padding: 2%;
+	background: #FFFFFF;
+	margin-bottom: 5%;
+}
+li{
+	list-style: none;
+	margin-top: 8%;
+	text-align: center;
+}
+.bpakage{
+	color: #FFFFFF;
+	background: #3E3E3E;
+	padding: 3% 8%;
+	border-style: none;
+	margin-top: 8%;
+}
+.bpakage:hover{
+	background: #8E8E8E;
+}
+hr{
+	width: 60%;
+	margin-top: 10px;
+	margin-left: 21%;
+}
+.negro{
+	background: #3E3E3E;
+	color: #FFFFFF;
+	width: 100%;
+	margin: auto;
+	height: 100px;
+	font-size: 200%;
+}
+.negro:hover{
+	background: #20ACA7;
+}
+/*esta sección es para la imagen redonda*/
+.custom{
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	margin-top: 8%;
+	margin-left: 43%;
+}
+.what{
+	margin-top: 5%;
+	font-size: 30px;
+}
+.mgb{
+	margin-bottom: 5%;
+}
 
 
 
